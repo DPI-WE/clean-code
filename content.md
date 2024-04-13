@@ -347,6 +347,3 @@ Remember, writing clean code is not an endpoint but a journey. Continuously lear
 ## Resources
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [Summary of 'Clean code' by Robert C. Martin](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
-- Rails Guides: Comprehensive guides covering Ruby on Rails conventions and best practices.
-- RuboCop: A Ruby static code analyzer, based on the community Ruby style guide, to enforce coding standards.
-- RSpec & MiniTest: Testing frameworks that encourage writing clean and maintainable test suites.
