@@ -61,7 +61,7 @@ Rigidity, fragility, and immobility are symptoms of deeper problems within a cod
 - What is a primary characteristic of clean code?
 - It relies heavily on comments for clarity.
   - Not quite. While comments can be helpful, clean code should be self-explanatory and not dependent on comments for understanding.
-- It includes complex logic to show developer skills.
+- It includes complex logic to show off developer skills.
   - Incorrect. Clean code should prioritize simplicity over complexity, making it easier to read and maintain.
 - It is simple and easy to understand by anyone on the team.
   - That's right! Clean code should be clean, readable, and understandable without requiring deep analysis or explanations.
@@ -69,10 +69,10 @@ Rigidity, fragility, and immobility are symptoms of deeper problems within a cod
   - Incorrect. Using advanced features indiscriminately does not align with clean code principles, which emphasize simplicity and clarity.
 {:.choose_best #clean_code_characteristic title="Characteristics of Clean Code" points="1" answer="3" }
 
-- What should you do when you encounter code that is not part of your current task?
+- What should you do when you encounter messy code that is not part of your current task?
 - Ignore it completely and focus only on your assigned task.
   - Not quite. While focus is important, clean code practices encourage making minor improvements.
-- Make minor improvements if they do not distract from your main task.
+- Make improvements if they are related to your assigned task.
   - Correct! The Boy Scout Rule encourages you to leave the code better than you found it, promoting ongoing improvement.
 - Overhaul the entire module to apply clean code principles.
   - This is not recommended as it might introduce risks and delays in your current project scope.
@@ -105,7 +105,7 @@ Rigidity, fragility, and immobility are symptoms of deeper problems within a cod
 - In the context of clean code, which practice is most aligned with ensuring maintainability and readability?
 - Creating large, comprehensive methods that perform multiple tasks.
   - Incorrect. Clean code favors small, focused methods that perform a single task.
-- Utilizing a single level of abstraction per method.
+- Methods focused on performing one task.
   - Exactly right! This keeps methods cohesive and focused, vastly improving readability and maintainability.
 - Keeping unrelated functions in the same file for quick access.
   - This can lead to confusing and unmanageable code, against clean code principles.
