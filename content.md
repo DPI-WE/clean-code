@@ -30,8 +30,6 @@ end
 ### Keep It Simple
 Simplicity is at the heart of clean code. This means choosing the most straightforward approach to solve problems, utilizing built-in methods, and avoiding over-engineering solutions.
 
-### 2. Keep It Simple
-
 ```ruby
 # Bad: Unnecessarily complex (unless a hard requirement)
 def greet(name)
